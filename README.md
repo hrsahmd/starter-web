@@ -1,10 +1,12 @@
 # Starter Web Project 
 
 ## Introduction
-This repository is for showing how Git and GitHub work
+This example is to show different parts of the Git repository and various commands using a web project.
 
 ## Purpose
+The main purpose is to provide simple example for Git training videos.
 
-Sample website with plenty of files for demos
+## Deployment
+This is a simple web project. Deployment can be on any web server or file system.
 
 ## How To Contribute 
