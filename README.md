@@ -10,6 +10,7 @@ The main purpose is to provide simple examples for Git training videos.
 This is a simple web project. Deployment can be on any web server or file system.
 
 ## How To Contribute
+Fork and make changes and issue Pull Request.
 
 ## Copyright
 Copyright (c) Haris.Bijli
