@@ -9,4 +9,7 @@ The main purpose is to provide simple examples for Git training videos.
 ## Deployment
 This is a simple web project. Deployment can be on any web server or file system.
 
-## How To Contribute 
+## How To Contribute
+
+## Copyright
+Copyright (c) Haris.Bijli
