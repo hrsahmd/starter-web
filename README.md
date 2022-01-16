@@ -1,7 +1,7 @@
 # Starter Web Project 
 
 ## Introduction
-This example is to show different parts of the Git repository and various commands using a web project. Updating to work on rebasing. Hang tight.
+This example is to show different parts of the Git repository and various commands using a web project. Updating to work on rebasing. Hang tight. More changes from myfeature branch too.
 
 ## Purpose
 The main purpose is to provide simple examples for Git training videos.
