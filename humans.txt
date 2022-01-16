@@ -7,7 +7,7 @@
     Haris -- developer - n/a
 
 # THANKS
-
+    All my users.
     <name>
 
 # TECHNOLOGY COLOPHON
