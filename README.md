@@ -1,7 +1,7 @@
 # Starter Web Project 
 
 ## Introduction
-This example is to show different parts of the Git repository and various commands using a web project.
+This example is to show different parts of the Git repository and various commands using a web project. Updating to work on rebasing. Hang tight.
 
 ## Purpose
 The main purpose is to provide simple examples for Git training videos.
